@@ -1,18 +1,69 @@
-# React + Vite
+# FitTrack - Fitness Tracking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FitTrack is a simple and responsive fitness tracking web application built using React.  
+It helps users track their fitness activities, health goals, and daily progress in an easy way.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://fit-track-self-zeta.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Features
 
-## React Compiler
+- User-friendly fitness dashboard
+- Track daily workout activities
+- Responsive design for mobile and desktop
+- Clean and modern UI
+- Easy navigation
+- Built with reusable React components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Vercel for deployment
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# FitTrack
+## 📂 Project Structure
+
+CodeAlpha-FitTrack/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── README.md
+````
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository
+git clone https://github.com/aniruddhasutradher07-commits/CodeAlpha-FitTrack.git
+
+2. Go to the project folder
+cd CodeAlpha-FitTrack
+
+3. Install dependencies
+npm install
+
+4. Run the project
+npm run dev
+
+## 🎯 Purpose of the Project
+
+This project was created as part of my learning journey in web development and React.
+It helped me understand component-based development, responsive design, and frontend deployment.
+
+## 👨‍💻 Author
+
+**Aniruddha Sutradhar**
+B.Tech Biotechnology Student
+Interested in Python, Machine Learning, HealthTech, and Web Development.
+
+## 📄 License
+This project is open-source and available under the MIT License.
+
+
 Live Demo: https://fit-track-self-zeta.vercel.app
